@@ -6,7 +6,7 @@ border:  0;
 
 .header {
   border: 3 solid black;
-width: 1100px;
+width: 200px;
 height: 293px
 }
  
@@ -18,4 +18,10 @@ top: 293px;
 padding-left: 24px;
 padding-right: 24px;
 margin-bottom: 180px;
+}
+.overlay.jpg {
+  background-image: url(overlay.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px;
 }
